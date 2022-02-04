@@ -1,0 +1,4 @@
+#Podemos começar com o basíco de tudo.
+#o  famoso Ola Mundo
+
+print('ola mundo')
