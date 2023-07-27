@@ -1,0 +1,8 @@
+#ex 15 aluguel de carro
+
+car = input('Bem vindo a carloca, qual seu nome ?')
+tempo = int(input('Quanto tempo em dias você ficou com o carro?'))
+km = float(input('Qual kilometragem você rodou em todos esses dias?'))
+print ('Lembre-se, o dia de locação é R$65.00 e adiciona R$0.15 centavos por km rodado')
+total = (tempo * 60) + 0.15 * km
+print ('o total a pagar é de R$ {}'.format(total))
