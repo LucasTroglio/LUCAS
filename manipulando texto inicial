@@ -1,0 +1,3 @@
+frase = input('Digite uma frase ! ')
+print (len(frase.strip()))
+print (frase.upper())
