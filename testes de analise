@@ -1,0 +1,14 @@
+#frase = 'Frase De Teste'
+#print (frase.count('D'))
+# teste ok
+
+#frase = 'frase de Testes Python'
+#print (frase.count('e',0,10))
+
+#frase = 'Vou morar em portugal em 2025'
+#print (frase.find('em'))
+
+#frase = ('Mais uma frase para testes')
+#print ('testes' in frase)
+
+todos como comentário pois foi feito no mesma aba do pycharm
