@@ -1,0 +1,3 @@
+frase = 'Curso em Vídeo Python, mas Vídeo só uma vez'
+frasetrocada = frase.replace ('Vídeo','texto', 2) #count - numero que quantas vz é trocada a palavra
+print (frasetrocada)
