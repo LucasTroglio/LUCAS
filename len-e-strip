@@ -1,0 +1,4 @@
+frase = '    Aprendendo Python   '
+print (frase.strip())
+nfrase = len(frase)
+print (nfrase)
