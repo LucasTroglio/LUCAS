@@ -1,0 +1,9 @@
+nome = input ('Digite seu nome!!')
+maiusculo = nome.upper()
+minusculo = nome.lower()
+n = len(nome)
+se = nome.strip
+print (n)
+print (se)
+print (maiusculo)
+print (minusculo)
