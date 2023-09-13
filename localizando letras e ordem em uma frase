@@ -1,0 +1,5 @@
+frase = str(input('Digite uma frase!')).strip().upper()
+n = frase.count('A')
+onde = frase.find('A')+1
+onde1 = frase.rfind('A')+1
+print ('A frase tem {} letras A, a primeira está localizado na posição {} e a última na posição {}'.format(n, onde, onde1))
