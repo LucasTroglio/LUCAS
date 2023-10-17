@@ -1,0 +1,6 @@
+nome = str(input('Qual seu nome?'))
+if nome == 'Lucas':
+    print ('Seu nome é muito bonito,{}'.format (nome))
+else:
+    print ('Seu nome é bem comum')
+print ('É um prazer te conhecer')
